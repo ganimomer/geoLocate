@@ -1,0 +1,8 @@
+#display {
+    padding: 10px;
+    border-style: outset;
+    width: 750px;
+    height: 420px;
+    border-width: medium;
+    background: url(assets/noisy_grid.png);
+}
